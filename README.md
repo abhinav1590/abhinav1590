@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinav1590&label=Profile%20views&color=0e75b6&style=flat" alt="abhinav1590" /> </p>
 
-- 🌱 I’m currently learning **NodeJS and ReactJS**
+- 🌱 I’m currently learning **Ruby and ReactJS**
 
 - 💬 Ask me about **Python, Java, HTML and CSS**
 
