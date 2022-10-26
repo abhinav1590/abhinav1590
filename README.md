@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinav1590&label=Profile%20views&color=0e75b6&style=flat" alt="abhinav1590" /> </p>
 
-- 🌱 I’m currently learning **Ruby and ReactJS**
+- 🌱 I’m currently learning **Spring Boot**
 
-- 💬 Ask me about **Python, Java, HTML and CSS**
+- 💬 Ask me about **Python, Java and Ruby**
 
 - 📫 How to reach me **mabhinav534@gmail.com**
 
