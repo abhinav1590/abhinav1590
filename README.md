@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Django Rest Framework**
 
-- 💬 Ask me about **Python, Java and Ruby**
+- 💬 Ask me about **Python and AI**
 
 - 📫 How to reach me **mabhinav534@gmail.com**
 
